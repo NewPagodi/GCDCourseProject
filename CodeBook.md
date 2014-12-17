@@ -28,56 +28,56 @@ The raw data from this analysis is the processed data from the human activity re
      5. standing
      6. laying<br><br>
   
-**mtBodyAccMeanX**
+**MeanTBodyAccMeanX**
 
 - The mean of all the means of the x components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccMeanY**
+**MeanTBodyAccMeanY**
 
 - The mean of all the means of the y components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccMeanZ**
+**MeanTBodyAccMeanZ**
 
 - The mean of all the means of the z components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccStdX**
+**MeanTBodyAccStdX**
 
 - The mean of all the standard deviations of the x components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccStdY**
+**MeanTBodyAccStdY**
 
 - The mean of all the standard deviations of the y components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccStdZ**
+**MeanTBodyAccStdZ**
 
 - The mean of all the standard deviations of the z components of the portion of the total acceleration due to the body.    
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtGravityAccMeanX**
+**MeanTGravityAccMeanX**
 
 - The mean of all the means of the x components of the portion of the total acceleration due to gravity.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtGravityAccMeanY**
+**MeanTGravityAccMeanY**
 
 - The mean of all the means of the y components of the portion of the total acceleration due to gravity.   
 - Double precision numeric.  
@@ -85,406 +85,406 @@ The raw data from this analysis is the processed data from the human activity re
 
 
 
-**mtGravityAccMeanZ**
+**MeanTGravityAccMeanZ**
 
 - The mean of all the means of the z components of the portion of the total acceleration due to gravity.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtGravityAccStdX**
+**MeanTGravityAccStdX**
 
 - The mean of all the standard deviations of the x components of the portion of the total acceleration due to gravity.    
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtGravityAccStdY**
+**MeanTGravityAccStdY**
 
 - The mean of all the standard deviations of the y components of the portion of the total acceleration due to gravity.    
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtGravityAccStdZ**
+**MeanTGravityAccStdZ**
 
 - The mean of all the standard deviations of the z components of the portion of the total acceleration due to gravity.    
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccJerkMeanX**
+**MeanTBodyAccJerkMeanX**
 
 - The mean of all the means of the x components of the Jerk signal of the acceleration.
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyAccJerkMeanY** 
+**MeanTBodyAccJerkMeanY** 
 
 - The mean of all the means of the y components of the Jerk signal of the acceleration. 
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyAccJerkMeanZ**
+**MeanTBodyAccJerkMeanZ**
 
 - The mean of all the means of the z components of the Jerk signal of the acceleration. 
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyAccJerkStdX**
+**MeanTBodyAccJerkStdX**
 
 - The mean of all the standard deviations of the x components of the Jerk signal of the acceleration. 
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyAccJerkStdY**
+**MeanTBodyAccJerkStdY**
 
 - The mean of all the standard deviations of the y components of the Jerk signal of the acceleration.  
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyAccJerkStdZ**
+**MeanTBodyAccJerkStdZ**
 
 - The mean of all the standard deviations of the z components of the Jerk signal of the acceleration.  
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyGyroMeanX**
+**MeanTBodyGyroMeanX**
 
 - The mean of all of the means of the x component of the angular velocity. 
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mtBodyGyroMeanY**
+**MeanTBodyGyroMeanY**
 
 - The mean of all of the means of the y component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br> 
 
 
-**mtBodyGyroMeanZ**
+**MeanTBodyGyroMeanZ**
 
 - The mean of all of the means of the z component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mtBodyGyroStdX**
+**MeanTBodyGyroStdX**
 
 - The mean of all of the standard deviations of the x component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mtBodyGyroStdY** 
+**MeanTBodyGyroStdY** 
 
 - The mean of all of the standard deviations of the y component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mtBodyGyroStdZ**
+**MeanTBodyGyroStdZ**
 
 - The mean of all of the standard deviations of the z component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mtBodyGyroJerkMeanX**
+**MeanTBodyGyroJerkMeanX**
 
 - The mean of all of the means of the x component of the Jerk Signal of the angular velocity. 
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mtBodyGyroJerkMeanY**
+**MeanTBodyGyroJerkMeanY**
 
 - The mean of all of the means of the y component of the Jerk Signal of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mtBodyGyroJerkMeanZ**
+**MeanTBodyGyroJerkMeanZ**
 
 - The mean of all of the means of the z component of the Jerk Signal of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mtBodyGyroJerkStdX**
+**MeanTBodyGyroJerkStdX**
 
 - The mean of all of the standard deviations of the x component of the Jerk Signal of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mtBodyGyroJerkStdY** 
+**MeanTBodyGyroJerkStdY** 
 
 - The mean of all of the standard deviations of the y component of the Jerk Signal of the angular velocity. 
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mtBodyGyroJerkStdZ** 
+**MeanTBodyGyroJerkStdZ** 
 
 - The mean of all of the standard deviations of the z component of the Jerk Signal of the angular velocity. 
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mtBodyAccMagMean** 
+**MeanTBodyAccMagMean** 
 
 - The mean of the means of the magnitudes of portion of the acceleration due to body movement. 
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccMagStd** 
+**MeanTBodyAccMagStd** 
 
 - The mean of the standard deviation of the magnitudes of portion of the acceleration due to body movement. 
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtGravityAccMagMean** 
+**MeanTGravityAccMagMean** 
 
 - The mean of the means of the magnitudes of portion of the acceleration due to gravity. 
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtGravityAccMagStd** 
+**MeanTGravityAccMagStd** 
 
 - The mean of the standard deviations of the magnitudes of portion of the acceleration due to gravity.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mtBodyAccJerkMagMean** 
+**MeanTBodyAccJerkMagMean** 
 
 - The mean of the means of the magnitudes of Jerk signal of the portion of the acceleration due to gravity.  
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyAccJerkMagStd** 
+**MeanTBodyAccJerkMagStd** 
 
 - The mean of the standard deviations of the magnitudes of Jerk signal of the portion of the acceleration due to gravity.  
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mtBodyGyroMagMean** 
+**MeanTBodyGyroMagMean** 
 
 - The mean of the means of the magnitudes of the angular velocity.   
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mtBodyGyroMagStd** 
+**MeanTBodyGyroMagStd** 
 
 - The mean of the standard deviations of the magnitudes of the angular velocity.   
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mtBodyGyroJerkMagMean** 
+**MeanTBodyGyroJerkMagMean** 
 
 - The mean of the means of the magnitudes of the Jerk signal of the angular velocity. 
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mtBodyGyroJerkMagStd** 
+**MeanTBodyGyroJerkMagStd** 
 
 - The mean of the standard deviations of the magnitudes of the Jerk signal of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mfBodyAccMeanX**
+**MeanFBodyAccMeanX**
 
 - The mean of all the means of the frequency domain x components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccMeanY**
+**MeanFBodyAccMeanY**
 
 - The mean of all the means of the frequency domain y components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccMeanZ**
+**MeanFBodyAccMeanZ**
 
 - The mean of all the means of the frequency domain z components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccStdX**
+**MeanFBodyAccStdX**
 
 - The mean of all the standard deviations of the frequency domain x components of the portion of the total acceleration due to the body.  
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccStdY**
+**MeanFBodyAccStdY**
 
 - The mean of all the standard deviations of the frequency domain y components of the portion of the total acceleration due to the body.   
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccStdZ**
+**MeanFBodyAccStdZ**
 
 - The mean of all the standard deviations of the frequency domain z components of the portion of the total acceleration due to the body.   
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccJerkMeanX**
+**MeanFBodyAccJerkMeanX**
 
 - The mean of all the means of the frequency domain x components of the Jerk signal of the acceleration. 
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyAccJerkMeanY**
+**MeanFBodyAccJerkMeanY**
 
 - The mean of all the means of the frequency domain y components of the Jerk signal of the acceleration. 
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyAccJerkMeanZ**
+**MeanFBodyAccJerkMeanZ**
 
 - The mean of all the means of the frequency domain z components of the Jerk signal of the acceleration. 
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyAccJerkStdX**
+**MeanFBodyAccJerkStdX**
 
 - The mean of all the standard deviations of the frequency domain x components of the Jerk signal of the acceleration. 
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyAccJerkStdY**
+**MeanFBodyAccJerkStdY**
 
 - The mean of all the standard deviations of the frequency domain y components of the Jerk signal of the acceleration.  
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyAccJerkStdZ**
+**MeanFBodyAccJerkStdZ**
 
 - The mean of all the standard deviations of the frequency domain z components of the Jerk signal of the acceleration.  
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyGyroMeanX**
+**MeanFBodyGyroMeanX**
 
 - The mean of all of the means of the frequency domain x component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyGyroMeanY**
+**MeanFBodyGyroMeanY**
 
 - The mean of all of the means of the frequency domain y component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyGyroMeanZ**
+**MeanFBodyGyroMeanZ**
 
 - The mean of all of the means of the frequency domain z component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyGyroStdX**
+**MeanFBodyGyroStdX**
 
 - The mean of all of the standard deviations of the frequency domain x component of the angular velocity.   
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyGyroStdY**
+**MeanFBodyGyroStdY**
 
 - The mean of all of the standard deviations of the frequency domain y component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyGyroStdZ**
+**MeanFBodyGyroStdZ**
 
 - The mean of all of the standard deviations of the frequency domain z component of the angular velocity.  
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyAccMagMean**
+**MeanFBodyAccMagMean**
 
 - The mean of the means of the frequency domain magnitudes of portion of the acceleration due to body movement. 
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccMagStd**
+**MeanFBodyAccMagStd**
 
 - The mean of the standard deviations of the frequency domain magnitudes of portion of the acceleration due to body movement. 
 - Double precision numeric.  
 - The units are standard gravity units 'g'. <br><br>
 
 
-**mfBodyAccJerkMagMean**
+**MeanFBodyAccJerkMagMean**
 
 - The mean of the means of the frequency domain magnitudes of Jerk signal of the portion of the acceleration due to body movement.  
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyAccJerkMagStd**
+**MeanFBodyAccJerkMagStd**
 
 - The mean of the standard deviations of the frequency domain magnitudes of Jerk signal of the portion of the acceleration due to body movement.   
 - Double precision numeric.  
 - The units are standard gravity units per second 'g/s'. <br><br>
 
 
-**mfBodyGyroMagMean**
+**MeanFBodyGyroMagMean**
 
 - The mean of the means of the magnitudes of the frequency domain angular velocity.   
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyGyroMagStd**
+**MeanFBodyGyroMagStd**
 
 - The mean of the standard deviations of the magnitudes of the frequency domain angular velocity. 
 - Double precision numeric.  
 - The units are radians/second. <br><br>
 
 
-**mfBodyGyroJerkMagMean**
+**MeanFBodyGyroJerkMagMean**
 
 - The mean of the means of the magnitudes of the Jerk signal of the frequency domain angular velocity. 
 - Double precision numeric.  
 - The units are radians/second^2. <br><br>
 
 
-**mfBodyGyroJerkMagStd**
+**MeanFBodyGyroJerkMagStd**
 
 - The mean of the standard deviations of the magnitudes of the Jerk signal of the frequency domain angular velocity.  
 - Double precision numeric.  

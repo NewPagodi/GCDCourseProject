@@ -55,7 +55,9 @@ names2<-gsub("mean\\(\\)","Mean",names2)
 names2<-gsub("std\\(\\)","Std",names2)
 names2<-gsub("-","",names2)
 names2<-gsub("BodyBody","Body",names2)
-names2<-paste("m",names2,sep="")
+names2<-gsub("^t","T",names2)
+names2<-gsub("^f","F",names2)
+names2<-paste("Mean",names2,sep="")
 names2[1]<-"subject"
 names2[2]<-"activity"
 
