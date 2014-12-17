@@ -68,6 +68,6 @@ colnames(d)<-names2
 d$activity<-factor(d$activity,labels=tolower(as.character(labels[,2])))
 
 #finally write the table to a text file
-write.table(d,file="MeansAndStds.txt",row.names=FALSE)
+write.table(d,file="MeansAndSDs.txt",row.names=FALSE)
 
 
